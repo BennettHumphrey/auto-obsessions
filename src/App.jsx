@@ -38,7 +38,7 @@ function App() {
           <Header  />
           <AboutUs  />
           <MenuHeader  />
-          <Menu  />
+          {/* <Menu  /> */}
           <Images  />
           <ContactHeader  />
           <Contact  />

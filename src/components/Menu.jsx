@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { menu } from '../resources/data'
+// import { menu } from '../resources/data'
 
 const Menu = () => {
 
