@@ -7,6 +7,12 @@ const Contact = () => {
         <h5 className="text-center text-2xl">Monday - Friday</h5>
         <h6 className="text-center text-lg">9:00 - 5:00 PM</h6>
         <p className="text-center">We currently have no office staff, so we typically respond within a week</p>
+      <div className="h-px w-4/5 bg-[#BBB] mx-auto" />
+        <h3 className="mt-5 text-center text-4xl">BURNSIDE</h3>
+        <h5 className="text-center text-xl">630 Dupplin Rd</h5>
+        <h6 className="text-center">Victoria, BC V8Z 1C1</h6>
+        <h6 className="text-center text-lg">(250)-590-1822</h6>
+        <h6 className="text-center">AutoObsessions@Outlook.com</h6>
       </div>
       <div className="h-px w-4/5 bg-[#BBB] my-10 mx-auto" />
       <div className="flex flex-col justify-center gap-3">
@@ -20,11 +26,6 @@ const Contact = () => {
           referrerPolicy="no-referrer-when-downgrade"
           className="grayscale h-[30vw] w-[80vw] m-auto"
         />
-        <h3 className="mt-5 text-center text-4xl">BURNSIDE</h3>
-        <h5 className="text-center text-xl">630 Dupplin Rd</h5>
-        <h6 className="text-center">Victoria, BC V8Z 1C1</h6>
-        <h6 className="text-center text-lg">(250)-590-1822</h6>
-        <h6 className="text-center">AutoObsessions@Outlook.com</h6>
       </div>
     </div>
   );
