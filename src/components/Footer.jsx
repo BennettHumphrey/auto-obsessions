@@ -10,7 +10,7 @@ const Footer = () => {
     <div className='bg-footer px-4 md:px-[20vw]' >
       <h2 className='text-2xl py-6 m-auto text-center' >Auto Obsessions Customs</h2>
       <div className='flex justify-center gap-6 md:gap-12 m-auto pb-6' >
-        <a href="https://www.instagram.com/bennett.humphrey/" target='_blank' aria-label='Follow us on Instagram!'>
+        <a href="https://www.instagram.com/auto_obsessions/" target='_blank' aria-label='Follow us on Instagram!'>
           <FaInstagram className='w-6 h-6 hover:fill-white hover:scale-125 hover:cursor-pointer duration-500' />
         </a>
         <a href="https://www.facebook.com/p/Auto-Obsessions-Customs-Inc-100063914803711/" target='_blank' aria-label='Follow us on Instagram!'>
